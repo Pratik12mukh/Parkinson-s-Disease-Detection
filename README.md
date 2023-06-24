@@ -7,7 +7,7 @@ This project aims to detect Parkinson's disease based on movement patterns using
 
 ## Dataset
 
-The dataset used for this project is stored in the file `parkinsons_data.csv`. It contains various features extracted from biomedical voice measurements of individuals, both with and without Parkinson's disease. The dataset can be obtained from [source link] (provide the source or website where the dataset can be accessed).
+The dataset used for this project is stored in the file `parkinsons_data.csv`. It contains various features extracted from biomedical voice measurements of individuals, both with and without Parkinson's disease. The dataset can be obtained from [[source link](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set)].
 
 ## Getting Started
 
