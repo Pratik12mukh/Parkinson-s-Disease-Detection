@@ -1,11 +1,23 @@
 # Parkinson-s-Disease-Detection
 Detecting Parkinson's disease based on movement patterns can be done using machine learning algorithms and signal processing techniques. Here's an example using Python's scikit-learn library:
 
-Open a text editor and create a new file named README.md.
-Provide an overview of the project in the README file. Explain that the goal of the project is to detect Parkinson's disease based on movement patterns using machine learning techniques.
-Include a brief description of the dataset used and mention where it can be obtained. Provide instructions on how to download or access the dataset.
-Explain the steps involved in the code, including data preprocessing, model training, evaluation, and making predictions.
-Mention the required libraries and dependencies needed to run the code successfully. You can provide instructions on how to install them using pip or conda.
-Include any additional instructions or configuration details if necessary.
-Add a section for acknowledgments, where you can mention any resources, references, or inspirations you used for the project.
-Finally, add your contact information or any other relevant information you want to share.
+# Parkinson's Disease Detection using Movement Patterns
+
+This project aims to detect Parkinson's disease based on movement patterns using machine learning algorithms and signal processing techniques.
+
+## Dataset
+
+The dataset used for this project is stored in the file `parkinsons_data.csv`. It contains various features extracted from biomedical voice measurements of individuals, both with and without Parkinson's disease. The dataset can be obtained from [source link] (provide the source or website where the dataset can be accessed).
+
+## Getting Started
+
+To run the code successfully, you need to have the following dependencies installed:
+
+- NumPy
+- pandas
+- scikit-learn
+
+You can install the dependencies using the following command:
+
+```shell
+pip install numpy pandas scikit-learn
